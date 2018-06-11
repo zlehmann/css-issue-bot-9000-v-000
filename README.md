@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-Let's practice using the W3C's CSS Validator!
+Although today's browsers are becoming more capable of accommodating for errors in CSS, some errors are not always caught gracefully. This variable can make it extremely difficult to apply style or layout consistently. What can be done to quickly scan our CSS documents for issues? Let's practice using the W3C's CSS Validator!
 
 ## Objectives 
 1. Change invalid CSS to valid CSS
@@ -15,9 +15,7 @@ Let's practice using the W3C's CSS Validator!
 
 ## Tasks for Local Environment Users
 
-1. Fork this repository.
-2. Clone your fork locally.
-3. `cd` into the local repo you just cloned.
+1. Click the "OPEN" button
 
 ## Steps 
 In this lesson, we will be taking the invalid CSS in `css/style.css` and changing it to be valid.
@@ -29,6 +27,10 @@ In this lesson, we will be taking the invalid CSS in `css/style.css` and changin
 6. Repeat steps 3-5 until your readout states "Congratulations! No Error Found.".
 
 Remember to check your progress in `index.html` in your browser!
+
+## Conclusion
+
+With a CSS validator, you can work your way through cleaning up errors in a CSS document and reduce the likelihood of display errors across platforms. Using the W3C CSS validator will help you quickly and efficiently troubleshoot your CSS.
 
 ## Resources
 
